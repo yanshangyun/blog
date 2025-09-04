@@ -2,7 +2,6 @@
 layout: post
 title: "Hello World"
 date: 2025-01-15 10:30:00 -0500
-categories: general
 ---
 
 # Welcome to my blog!
