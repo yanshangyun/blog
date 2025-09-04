@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Hello again!"
-date: 2025-09-03
+title: "Hello again"
+date: 2025-01-15
 ---
 
 # Welcome to my blog!
