@@ -3,7 +3,7 @@ email: your-email@example.com
 description: >-
   Write an awesome description for your new site here.
 baseurl: ""
-url: "https://yanshangyun.github.io"
+url: "https://yanshangyun.github.io/blog"
 
 # Build settings
 markdown: kramdown
