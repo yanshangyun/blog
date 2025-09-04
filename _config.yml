@@ -10,6 +10,7 @@ markdown: kramdown
 highlighter: rouge
 theme: minima
 permalink: /:title/
+incremental: false 
 plugins:
   - jekyll-feed
   - jekyll-sitemap
